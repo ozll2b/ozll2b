@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yerim
-- 👀 I’m interested in android app, server
+- 👀 I’m interested in android app, server, database
 - 🌱 I’m currently learning algorithm
 - 📫 How to reach me kyr4515@naver.com
 
